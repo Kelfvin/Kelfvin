@@ -1,12 +1,7 @@
 # 你好！ 👋
 
-
-
 我是一名本科软件工程专业在读生，目前大三。
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kelfvin&show_icons=true&theme=transparent" /> 
-</div>
 
 ## 项目
 
@@ -26,4 +21,7 @@
   - 深度学习可解释
   - 独立开发
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kelfvin&show_icons=true&theme=transparent" /> 
+</div>
 
