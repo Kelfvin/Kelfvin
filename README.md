@@ -1,14 +1,8 @@
 # 你好！ 👋
 
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=少年应有鸿鹄志，当骑骏马踏平川&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
 
 
-
-一名本科软件工程专业在读生。
+我是一名本科软件工程专业在读生，目前大三。
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kelfvin&show_icons=true&theme=transparent" /> 
@@ -16,7 +10,13 @@
 
 ## 项目
 
-
+- 爱因斯坦计算机博弈项目：[Einstein_BlueShadow](https://github.com/Kelfvin/Einstein_BlueShadow)
+- 刷题App：[简题](https://github.com/Kelfvin/JianTi)
+- 刷题CLI：[Brush](https://github.com/Kelfvin/Brush)
+- 时间管理：TimeTrack：
+  - [前端](https://github.com/Kelfvin/Time-Tracker)
+  - [后端](https://github.com/Kelfvin/time_tracker_server)
+- 青年大学习清查工具：[young_learn](https://github.com/Kelfvin/young_learn)
 
 ## Doing
 
