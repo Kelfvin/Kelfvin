@@ -26,10 +26,12 @@
 ## Doing
 
 - 🌱 正在学习
-  - 伪造图片识别
   - 深度学习
-  - 深度学习可解释
-  - 独立开发
+    - 图片篡改检测
+    - 深度学习可解释
+  - 应用开发
+    - Flutter
+    - FastAPI
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kelfvin&show_icons=true&theme=transparent" /> 
