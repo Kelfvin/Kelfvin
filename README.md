@@ -13,9 +13,9 @@
 - 刷题App：[简题](https://github.com/Kelfvin/JianTi)
 - 刷题CLI：[Brush](https://github.com/Kelfvin/Brush)
 - 时间管理：TimeTrack：
-  - [前端](https://github.com/Kelfvin/Time-Tracker)
+  - [Web前端](https://github.com/Kelfvin/Time-Tracker)
   - [后端](https://github.com/Kelfvin/time_tracker_server)
-  - [原生开发（Java）](https://github.com/Kelfvin/Time_Tracker_Native)
+  - [Android原生开发（Java）](https://github.com/Kelfvin/Time_Tracker_Native)
 - 青年大学习清查工具：[young_learn](https://github.com/Kelfvin/young_learn)
 
 ### 深度学习
