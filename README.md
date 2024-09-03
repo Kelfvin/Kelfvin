@@ -21,7 +21,7 @@
 ### 深度学习
 
 - [GAN-MINIST](https://github.com/Kelfvin/GAN-MINIST)
-- [Forgery-F1-Demo](https://github.com/Kelfvin/Forgery-F1-Demo?tab=readme-ov-file)
+- [IMDL-F1-Demo](https://github.com/Kelfvin/Forgery-F1-Demo?tab=readme-ov-file)
 
 ## Doing
 
