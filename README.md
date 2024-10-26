@@ -9,7 +9,6 @@
 
 ### 开发
 
-- 爱因斯坦计算机博弈项目：[Einstein_BlueShadow](https://github.com/Kelfvin/Einstein_BlueShadow)
 - 刷题App：[简题](https://github.com/Kelfvin/JianTi)
 - 刷题CLI：[Brush](https://github.com/Kelfvin/Brush)
 - 时间管理：TimeTrack：
