@@ -1,38 +1,33 @@
-# 追风赶月莫停留 平芜尽处是春山 👋
+# I'm gonna make him an offer he can't refuse 👋
 
- 四川大学研0
+## Github Overview 😄
 
-- Blog：https://kelfvin.github.io/
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kelfvin"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kelfvin&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+## Self-introduction 👨‍🎓
 
-## 项目
+🌱 I'm currently a master's student at Sichuan University, specializing in Computer Vision with a focus on image manipulation detection and location(IMDL). My advisor is [Prof. Jizhe Zhou](https://knightzjz.github.io/).
 
-### 开发
+## Selected Project 🔥
 
-- 刷题App：[简题](https://github.com/Kelfvin/JianTi)
-- 刷题CLI：[Brush](https://github.com/Kelfvin/Brush)
-- 时间管理：TimeTrack：
-  - [Web前端](https://github.com/Kelfvin/Time-Tracker)
-  - [后端](https://github.com/Kelfvin/time_tracker_server)
-  - [Android原生开发（Java）](https://github.com/Kelfvin/Time_Tracker_Native)
-- 青年大学习清查工具：[young_learn](https://github.com/Kelfvin/young_learn)
-
-### 深度学习
+### Deep Learning
 
 - [GAN-MINIST](https://github.com/Kelfvin/GAN-MINIST)
 - [IMDL-F1-Demo](https://github.com/Kelfvin/Forgery-F1-Demo?tab=readme-ov-file)
 
-## Doing
+### Independent development
 
-- 🌱 正在学习
-  - 深度学习
-    - 图片篡改检测
-    - 深度学习可解释
-  - 应用开发
-    - Flutter
-    - FastAPI
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kelfvin&show_icons=true&theme=transparent" /> 
-</div>
-
+- Practice Tool of Subject Study
+  - JianTi Application: [JianTi](https://github.com/Kelfvin/JianTi)
+  - Brush CLI: [Brush](https://github.com/Kelfvin/Brush)
+- Time Management
+  - TimeTrack：
+    - [Flutter Front-end](https://github.com/Kelfvin/Time-Tracker)
+    - [Java Backend](https://github.com/Kelfvin/time_tracker_server)
+  - [Android Java](https://github.com/Kelfvin/Time_Tracker_Native)
+- young_learn: [young_learn](https://github.com/Kelfvin/young_learn)
