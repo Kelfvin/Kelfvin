@@ -13,11 +13,15 @@
 
 🌱 I'm currently a master's student at Sichuan University, specializing in Computer Vision with a focus on image manipulation detection and location(IMDL). My advisor is [Prof. Jizhe Zhou](https://knightzjz.github.io/).
 
-## Blog 📝
+## Social media 📝
 
 I write blogs about my research and some interesting things. You can find them on my blog page.
 
 - [Kelf's Blog](https://kelfvin.github.io/)
+
+I also have a telegram channel.
+
+- Telegram channel: https://t.me/kelfvin
 
 ## Selected Project 🔥
 
