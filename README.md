@@ -23,14 +23,7 @@ I also have a telegram channel.
 
 - Telegram channel: https://t.me/kelfvin
 
-## Selected Project 🔥
-
-### Deep Learning
-
-- [GAN-MINIST](https://github.com/Kelfvin/GAN-MINIST)
-- [IMDL-F1-Demo](https://github.com/Kelfvin/Forgery-F1-Demo?tab=readme-ov-file)
-
-### Independent development
+## Project 🔥
 
 - Practice Tool of Subject Study
   - JianTi Application: [JianTi](https://github.com/Kelfvin/JianTi)
@@ -40,4 +33,3 @@ I also have a telegram channel.
     - [Flutter Front-end](https://github.com/Kelfvin/Time-Tracker)
     - [Java Backend](https://github.com/Kelfvin/time_tracker_server)
   - [Android Java](https://github.com/Kelfvin/Time_Tracker_Native)
-- young_learn: [young_learn](https://github.com/Kelfvin/young_learn)
