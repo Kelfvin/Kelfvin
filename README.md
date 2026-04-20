@@ -23,7 +23,7 @@
 
 Here are some of my projects:
 
-- [MDTrans](https://github.com/Kelfvin/MDTrans): Translate English PDF documents into Chinese Markdown, while preserving the original formatting as much as possible.
+- [TransMD](https://github.com/Kelfvin/TransMD): Translate English PDF documents into Chinese Markdown, while preserving the original formatting as much as possible.
 - [JianTi](https://github.com/Kelfvin/JianTi): An app for exam preparation that allows users to import question banks and practice efficiently.
 
 ## Social media 📝
