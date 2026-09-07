@@ -31,7 +31,3 @@ Here are some of my projects:
 I write blog posts about my research and other topics I find interesting. You can find them on my blog:
 
 - [Kelf's Blog](https://kelfvin.github.io/)
-
-I also have a Telegram channel.
-
-- Telegram channel: https://t.me/kelfvin
