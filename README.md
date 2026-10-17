@@ -19,15 +19,6 @@
   
 👨‍🏫 Advisor: [Prof. Jizhe Zhou](https://knightzjz.github.io/)
 
-## Project 🔥
-
-Here are some of my projects:
-
-- [TransMD](https://github.com/Kelfvin/TransMD): Translate English PDF documents into Chinese Markdown, while preserving the original formatting as much as possible.
-- [JianTi](https://github.com/Kelfvin/JianTi): An app for exam preparation that allows users to import question banks and practice efficiently.
-
-## Social media 📝
-
 I write blog posts about my research and other topics I find interesting. You can find them on my blog:
 
-- [Kelf's Blog](https://kelfvin.github.io/)
+- [Kelf's Blog](https://kelf-blog.pages.dev/)
